@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "question": "How to pay for the services?",
+      "answer": "You can pay for the services by using following methods:- \n Debit Card or Credit Cards, Net banking of all popular banks, Wallets like Paytm & AmazonPay"
+    },
+    {
+      "id": 2,
+      "question": "How to book a service?",
+      "answer": "You can follow below steps to book a service: \n 1. Search for the category you need. \n 2. Select the category and follow the instruction as you go forward. \n 3. Once you have booked the service, wait for a professional to be assigned. A verified and trained professional will be assigned 1 hour before the booked time. \n 4. The assigned professional will reach the address you have provided and deliver the service."
+    },
+    {
+      "id": 3,
+      "question": "How can I Rate and review the service of a professional?",
+      "answer": "After each service is deliverd you will be asked to rate the professional. You also can leave feedback of your experience and suggest any improvement if required. You can also edit your rating or review anytime in next 30 days."
+    },
+    {
+      "id": 4,
+      "question": "How to Rescheule a booking?",
+      "answer": "You can follow the below steps to book a service to reschedule a booking for a different time: \n 1. Search for the booking you want to reschedule. \n 2. Click on Reschedule. \n 3. Select the preffered time slot if available and then submit."
+    },
+    {
+      "id": 5,
+      "question": "How do I cancel my Order?",
+      "answer": "If you want the service but can't avail it at the time you booked the service for, we recommend you to reschedule the booking for a different time. If you want to cancel, follow the below steps: \n 1. Search for the booking you want to cancel. \n 2. Click on cancel. \n 3. Select the reason to cancel and submit."
+    },
+    {
+      "id": 6,
+      "question": "I just cancelled my order. When will I receive my refund?",
+      "answer": "For payments made via Credit Card, Debit Card, Net Banking, or Wallet you will receive refund into the source account within 7-10 days from the time of order cancellation."
+    },
+    {
+      "id": 7,
+      "question": "When will the professional reach for delivering services?",
+      "answer": "Our professional generally reach within the stipulated time slot. We track if the job is not started on time we are there to help you out. Our customer executive will be there 24/7 for your support. Just give a call or mail us your concern."
+    },
+    {
+      "id": 8,
+      "question": "How to know if my request is confirmed?",
+      "answer": "Once you place a booking, you will recieve a confirmation via SMS/Email you that the booking has been accepted. A Professional will be assigned for your booking one hour before the service time."
+    }
+  ]
